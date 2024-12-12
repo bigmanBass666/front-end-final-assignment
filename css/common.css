@@ -224,6 +224,9 @@ body {
 .modal kbd {
   margin-right: 2px;
 }
+footer a {
+  color: inherit;
+}
 d1v {
   color: var(--user-btn-font-color);
 }
